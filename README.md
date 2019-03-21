@@ -4,6 +4,6 @@ Training a Neural Topic Model (NTM) with [Amazon SageMaker](https://docs.aws.ama
 
 ## Notebook
 
-[View the notebook](https://nbviewer.jupyter.org/github/jahewson/neural-topics/blob/master/neural-topics.ipynb) using nbviewer as GitHub's rendering doesn't support it.
+[View the notebook](https://nbviewer.jupyter.org/github/jahewson/neural-topics/blob/master/neural-topics.ipynb) using nbviewer as GitHub's rendering doesn't support it properly.
 
 ![topics](topics.png)
